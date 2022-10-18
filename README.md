@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 😎, I'm JT Calahatian</h1>
-<h3 align="center">I am an aspiring developer with an interest in web development</h3>
+<h3 align="center">I am an aspiring software engineer with an interest in web and game development!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=izyoboijay&label=Profile%20views&color=0e75b6&style=flat" alt="izyoboijay" /> </p>
 
