@@ -21,13 +21,13 @@
 - ❓ Ask me about my favorite project: [Algorhythm - A social media concept with Spotify API](https://algorhythm.fun/)  
   
 
-- ⚡ When I am not working I like to: Train and Practice Powerlifting 🏋️‍♂️, Make Matcha Tea🍵 and Coffee☕, Try new foods 🍜, Listen to Music🎵, Watch Sports🏀🏈 and Anime🌸, and Play Video Games🎮!  
+- ⚡ When I am not working I like to: Train and Practice Powerlifting 🏋️‍♂️, Make Matcha Tea🍵 and Coffee☕, Try New foods 🍜, Listen to Music🎵, Watch Sports🏀🏈 and Anime🌸, and Play Video Games🎮!  
   
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=IzYoBoiJay&&style=flat-square" align="center" />
 </div>  
   
 
@@ -144,6 +144,3 @@
 ### Peep what I am listening to! 🎧  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kdu10stepg55cmod32aic7t5p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
