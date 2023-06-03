@@ -9,19 +9,19 @@
 ### **<div align="center">I am an aspiring Software Engineer with an interest in developing systems, machine learning AI, and web apps!</div>**  
   
 
-- 👨‍💻 I'm currently working on: [3D Emotion Expression ML Recognition](https://github.com/IzYoBoiJay/3D-Emotion-Expression-ML-Recognition)  
+- 👨‍💻 I'm currently working on: [Smartwatch Pain Classifier on Physiological Signals using ML (Private Repo)](https://github.com/IzYoBoiJay/Smartwatch-Physiological-Signal-Pain-Classifier-ML)  
   
 
 - 🔭 I’m currently reviewing: Data Structures & Algorithms on [LeetCode (Repo)](https://github.com/IzYoBoiJay/LeetCode)  
   
 
-- 🌱 I’m currently learning about: [Affective Computing](https://www.media.mit.edu/groups/affective-computing/overview/) and [Image Processing](https://en.wikipedia.org/wiki/Digital_image_processing)  
+- 🌱 I’m currently learning about: [Affective Computing](https://www.media.mit.edu/groups/affective-computing/overview/) and Reviewing Data Structure & Algorithm Fundamentals
   
 
 - ❓ Ask me about my favorite project: [Algorhythm - A social media concept with Spotify API](https://algorhythm.fun/)  
   
 
-- ⚡ When I am not working I like to: Train and Practice Powerlifting 🏋️‍♂️, Make Matcha Tea🍵 and Coffee☕, Try New foods 🍜, Listen to Music🎵, Watch Sports🏀🏈 and Anime🌸, and Play Video Games🎮!  
+- ⚡ When I am not working I like to: Weightlift with a focus on Strength🏋️‍♂️, Make Matcha Tea🍵 and Coffee☕, Try New Foods 🍜, Listen to Music🎵, Watch Sports🏀🏈 and Anime🌸, and Play Video Games🎮!  
   
 
 <br/>  
