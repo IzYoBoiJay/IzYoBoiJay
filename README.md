@@ -15,7 +15,7 @@
 - 🔭 I’m currently reviewing: Data Structures & Algorithms on [LeetCode (Repo)](https://github.com/IzYoBoiJay/LeetCode)  
   
 
-- 🌱 I’m currently learning about: [Affective Computing](https://www.media.mit.edu/groups/affective-computing/overview/) and Reviewing Data Structure & Algorithm Fundamentals
+- 🌱 I’m currently learning about: [Affective Computing](https://www.media.mit.edu/groups/affective-computing/overview/) and Front End Development Fundamentals
   
 
 - ❓ Ask me about my favorite project: [Algorhythm - A social media concept with Spotify API](https://algorhythm.fun/)  
