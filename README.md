@@ -9,16 +9,16 @@
 ### **<div align="center">I am an aspiring Software Engineer with an interest in developing systems, machine learning AI, and web apps!</div>**  
   
 
-- 👨‍💻 I'm currently working on: [Smartwatch Pain Classifier on Physiological Signals using ML (Private Repo)](https://github.com/IzYoBoiJay/Smartwatch-Physiological-Signal-Pain-Classifier-ML)  
+- 👨‍💻 I'm currently working on: Meta Back-End Developer Coursera Certification 
   
 
 - 🔭 I’m currently reviewing: Data Structures & Algorithms on [LeetCode (Repo)](https://github.com/IzYoBoiJay/LeetCode)  
   
 
-- 🌱 I’m currently learning about: [Affective Computing](https://www.media.mit.edu/groups/affective-computing/overview/) and Front End Development Fundamentals
+- 🌱 I’m currently learning about: Back-End Development & Software Engineering Fundamentals
   
 
-- ❓ Ask me about my favorite project: [Algorhythm - A social media concept with Spotify API](https://algorhythm.fun/)  
+- ❓ Ask me about my favorite project: [Algorhythm - A social media concept with Spotify API]([https://algorhythm.fun/](https://algorhythm-front.herokuapp.com/))  
   
 
 - ⚡ When I am not working I like to: Weightlift with a focus on Strength🏋️‍♂️, Make Matcha Tea🍵 and Coffee☕, Try New Foods 🍜, Listen to Music🎵, Watch Sports🏀🏈 and Anime🌸, and Play Video Games🎮!  
