@@ -6,7 +6,7 @@
 # <div align="center">Howdy 😎, I'm JT Calahatian!</div>  
   
 
-### **<div align="center">I am an aspiring Software Engineer with an interest in developing systems, machine learning AI, and web apps!</div>**  
+### **<div align="center">I am a Computer Systems Engineer with an interest in developing systems, machine learning AI, and web apps!</div>**  
   
 
 - 👨‍💻 I'm currently working on: Meta Back-End Developer Coursera Certification 
